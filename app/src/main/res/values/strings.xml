@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SummerPractice</string>
+    <string name="app_name">AndroidSummerPractice</string>
     <string name="height">Height:</string>
     <string name="weight">Weight:</string>
     <string name="age">Age:</string>
