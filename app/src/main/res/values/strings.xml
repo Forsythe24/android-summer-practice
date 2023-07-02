@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidSummerPractice</string>
+    <string name="the_greatest_players">The Greatest Football Players</string>
+    <string name="personal_info">personal info</string>
 </resources>
