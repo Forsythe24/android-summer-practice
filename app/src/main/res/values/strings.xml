@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">AndroidSummerPractice</string>
+    <string name="hello_blank_fragment">Home Screen</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="content">Content</string>
+    <string name="friends">Friends</string>
+    <string name="display">DISPLAY</string>
+    <string name="content_screen">Content Screen</string>
+    <string name="favorites_screen">Favorites Screen</string>
+    <string name="friends_screen">Friends Screen</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="profile_screen">Profile Screen</string>
+    <string name="display_screen">Display Screen</string>
 </resources>
